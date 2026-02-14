@@ -1,0 +1,23 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "spfx-property-management-directory",
+    "environment": "spo",
+    "useGulp": false,
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "PropertyManagementDirectory",
+    "componentDescription": "Property Management Directory",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.18.0",
+    "sdksVersions": {},
+    "version": "1.22.2",
+    "libraryName": "spfx-property-management-directory",
+    "libraryId": "bc247db9-92aa-4250-b5f5-4b8a205e9414",
+    "packageManager": "npm",
+    "solutionShortDescription": "spfx-property-management-directory description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  }
+}

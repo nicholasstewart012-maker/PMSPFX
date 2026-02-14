@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "property-management-directory-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/propertyManagementDirectory/PropertyManagementDirectoryWebPart.js",
+          "manifest": "./src/webparts/propertyManagementDirectory/PropertyManagementDirectoryWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "PropertyManagementDirectoryWebPartStrings": "lib/webparts/propertyManagementDirectory/loc/{locale}.js"
+  }
+}

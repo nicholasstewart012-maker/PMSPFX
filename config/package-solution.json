@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-property-management-directory-client-side-solution",
+    "id": "bc247db9-92aa-4250-b5f5-4b8a205e9414",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-property-management-directory description"
+      },
+      "longDescription": {
+        "default": "spfx-property-management-directory description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-property-management-directory Feature",
+        "description": "The feature that activates elements of the spfx-property-management-directory solution.",
+        "id": "03147fe4-f3dc-4c15-8be5-f64befd2cd3e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-property-management-directory.sppkg"
+  }
+}
